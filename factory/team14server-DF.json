@@ -1,0 +1,9 @@
+{
+	"name": "team14server-DF",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43fe18ba-4ce3-4d4d-882f-10fb1bc59282",
+		"tenantId": "afb58802-ff7a-4bb1-ab21-367ff2ecfc8b"
+	}
+}
